@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.tar.gz
+*.pth
+*.npz
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_results/

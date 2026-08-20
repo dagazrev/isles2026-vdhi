@@ -1,0 +1,11 @@
+numpy
+SimpleITK
+scikit-image
+fastapi
+uvicorn
+nnunetv2
+nibabel
+batchgenerators
+acvl-utils
+dynamic-network-architectures
+torchvision
